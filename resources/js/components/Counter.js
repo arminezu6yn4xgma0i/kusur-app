@@ -1,8 +1,8 @@
 // resources/js/Counter.js
 
 import axios from "axios";
-import React, { useState } from "react";
 import { createRoot } from "react-dom/client";
+import React, { useState } from "react";
 
 export default function Counter() {
     // Set the initial count state to zero, 0
@@ -36,6 +36,7 @@ export default function Counter() {
     );
 }
 
-if (document.getElementById('counter')) {
-    ReactDOM.render(<Counter />, document.getElementById('counter'));
+if (document.getElementById("counter")) {
+    const root = createRoot(document.getElementById("counter"));
+    root.render(<Counter />);
 }

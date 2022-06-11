@@ -7,7 +7,7 @@ export default function Welcome() {
         <>
             <header className="max-w-lg mx-auto">
                 <h1 className="text-4xl font-bold text-white text-center">
-                    React Laravel App
+                    Kusur App
                 </h1>
             </header>
 

@@ -2358,7 +2358,7 @@ function Welcome() {
       className: "max-w-lg mx-auto",
       children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h1", {
         className: "text-4xl font-bold text-white text-center",
-        children: "React Laravel App"
+        children: "Kusur App"
       })
     }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("main", {
       className: "bg-white max-w-lg mx-auto p-8 md:p-12 my-10 rounded-lg shadow-2xl",

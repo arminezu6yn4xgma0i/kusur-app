@@ -19,8 +19,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/login', function () {
-    return view('welcome2');
+Route::get('/counter', function () {
+    return view('counter');
 });
 
 Route::post('count', function (Request $request) {

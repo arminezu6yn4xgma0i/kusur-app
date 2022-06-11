@@ -2,7 +2,7 @@
 
 Example project for Laravel and React
 
-## Code of Conduct
+## How to:
 ./vendor/bin/sail up <br>
 ./vendor/bin/sail artisan migrate <br>
 npm install <br>
@@ -11,3 +11,5 @@ npm install --save-dev @reduxjs/toolkit <br>
 npm install --save-dev tailwindcss postcss autoprefixer <br>
 npx tailwindcss init <br>
 npm run watch <br>
+
+## How to:
